@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/AlexandrosAssets/test interactive.unity
+    guid: d6be3d624d5156649a985c25f7ac6723
+  - enabled: 0
+    path: Assets/AlexandrosAssets/testcamera.unity
+    guid: ea7e2ce89f89d47449f1793810474e96
