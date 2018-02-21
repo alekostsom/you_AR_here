@@ -6,6 +6,8 @@ using Mapbox.Unity.MeshGeneration.Factories;
 public class PointOfInterest : MonoBehaviour {
 	
 	public DirectionsFactory directionsFactory;
+	
+	public List<MapManager.PoiCategory> categories;
 
 	// Use this for initialization
 	void Start () {
