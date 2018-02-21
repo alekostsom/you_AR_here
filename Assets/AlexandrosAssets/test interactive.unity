@@ -405,6 +405,25 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   directionsFactory: {fileID: 1527797475}
   categories: 0000000006000000
+  latitude: 0
+  longitude: 0
+  weightssda:
+  - category: 0
+    weight: 0
+  - category: 0
+    weight: 0
+  - category: 0
+    weight: 0
+  - category: 0
+    weight: 0
+  - category: 0
+    weight: 0
+  - category: 0
+    weight: 0
+  - category: 0
+    weight: 0
+  - category: 0
+    weight: 0
 --- !u!23 &61588690
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -1109,6 +1128,25 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   directionsFactory: {fileID: 1527797475}
   categories: 02000000060000000500000004000000
+  latitude: 0
+  longitude: 0
+  weightssda:
+  - category: 0
+    weight: 0
+  - category: 0
+    weight: 0
+  - category: 0
+    weight: 0
+  - category: 0
+    weight: 0
+  - category: 0
+    weight: 0
+  - category: 0
+    weight: 0
+  - category: 0
+    weight: 0
+  - category: 0
+    weight: 0
 --- !u!23 &274243457
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -3521,6 +3559,25 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   directionsFactory: {fileID: 1527797475}
   categories: 000000000600000004000000
+  latitude: 0
+  longitude: 0
+  weightssda:
+  - category: 0
+    weight: 0
+  - category: 0
+    weight: 0
+  - category: 0
+    weight: 0
+  - category: 0
+    weight: 0
+  - category: 0
+    weight: 0
+  - category: 0
+    weight: 0
+  - category: 0
+    weight: 0
+  - category: 0
+    weight: 0
 --- !u!23 &866454199
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -7158,6 +7215,25 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   directionsFactory: {fileID: 1527797475}
   categories: 01000000
+  latitude: 0
+  longitude: 0
+  weightssda:
+  - category: 0
+    weight: 0
+  - category: 0
+    weight: 0
+  - category: 0
+    weight: 0
+  - category: 0
+    weight: 0
+  - category: 0
+    weight: 0
+  - category: 0
+    weight: 0
+  - category: 0
+    weight: 0
+  - category: 0
+    weight: 0
 --- !u!23 &1729306133
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -7357,6 +7433,25 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   directionsFactory: {fileID: 1527797475}
   categories: 04000000
+  latitude: 0
+  longitude: 0
+  weightssda:
+  - category: 0
+    weight: 0
+  - category: 0
+    weight: 0
+  - category: 0
+    weight: 0
+  - category: 0
+    weight: 0
+  - category: 0
+    weight: 0
+  - category: 0
+    weight: 0
+  - category: 0
+    weight: 0
+  - category: 0
+    weight: 0
 --- !u!23 &1809819358
 MeshRenderer:
   m_ObjectHideFlags: 0
